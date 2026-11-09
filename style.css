@@ -3,3 +3,10 @@
 /* Arabic programming project visual */
 .project-visual.learn{background:radial-gradient(circle at 20% 20%,rgba(47,118,255,.42),transparent 55%),linear-gradient(135deg,#061a42,#123b90 70%,#07152f);}
 .project-visual.learn .project-mark{font-family:monospace;letter-spacing:-.08em;direction:ltr;color:#d9eaff;text-shadow:0 0 28px rgba(66,151,255,.55)}
+
+.project-visual.aihub{background:linear-gradient(135deg,#07152f,#1746b8,#7559d7)}
+.project-visual.hrms{background:linear-gradient(135deg,#0b1a36,#1665ad,#29b4dc)}
+.project-visual.ads{background:linear-gradient(135deg,#25114c,#6740b9,#db6ec1)}
+.project-visual.store{background:linear-gradient(135deg,#091c38,#1746b8,#d6b36a)}
+.project-visual.calculator{background:linear-gradient(135deg,#07152f,#146e9a,#41c1cc)}
+.project-visual.aihub .project-mark,.project-visual.hrms .project-mark,.project-visual.ads .project-mark,.project-visual.store .project-mark,.project-visual.calculator .project-mark{font-size:clamp(2rem,4vw,3.4rem);color:#fff;text-shadow:0 8px 25px #0006}
